@@ -9,10 +9,10 @@
 </p>
 <p align="center">
 <a href="https://github.com/DylanXDs?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/DylanXDs?color=green&style=flat-square"></a>
-<a href="https://github.com/DylanXDs/tugas/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AlipBot/Api-Alpis?color=white&style=flat-square"></a>
-<a href="https://github.com/AlipBot/Api-Alpis/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AlipBot/Api-Alpis?color=yellow&style=flat-square"></a>
-<a href="https://github.com/AlipBot/Api-Alpis/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AlipBot/Api-Alpis?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/AlipBot/Api-Alpis"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/AlipBot/Api-Alpis/"><img title="Size" src="https://img.shields.io/github/repo-size/DylanXDs/tugas?style=flat-square&color=darkred"></a>
-<a href="https://github.com/AlipBot/Api-Alpis/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/DylanXDs/tugas/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DylanXDs/tugas?color=white&style=flat-square"></a>
+<a href="https://github.com/DylanXDs/tugas/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DylanXDs/tugas?color=yellow&style=flat-square"></a>
+<a href="https://github.com/DylanXDs/tugas/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DylanXDs/tugas?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/DylanXDs/tugas"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+<a href="https://github.com/DylanXDs/tugas/"><img title="Size" src="https://img.shields.io/github/repo-size/DylanXDs/tugas?style=flat-square&color=darkred"></a>
+<a href="https://github.com/DylanXDs/tugas/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 </p>
