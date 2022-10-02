@@ -2,7 +2,7 @@
 <img src="https://i.pinimg.com/736x/25/bc/e1/25bce1d90c9778c2502d20359ab36338.jpg" width="200" height="200"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Tugas+Sekolah+Project+Birran+Dylan+" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Tugas+Sekolah+Project+Birran+Dylan+XD+" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-DylanXDs-red.svg?style=for-the-badge&logo=github"></a>
